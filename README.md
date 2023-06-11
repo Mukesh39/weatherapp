@@ -24,15 +24,14 @@ You can try out the Weather Application by visiting the following link: Weather 
 
 To run the Weather Application locally, follow these steps:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/username/repo.git
+Clone the repository: git clone https://github.com/Mukesh39/weatherapp.git
+
 Navigate to the project directory:
-bash
-Copy code
+
 cd repo
+
 Open the index.html file in your preferred web browser.
+
 Sign up for an API key at OpenWeather and replace the placeholder API key in the code with your actual API key.
 
 # Usage
@@ -44,6 +43,7 @@ Feel free to search for different locations to check their respective weather co
 Screenshots
 
 Screenshot 1
+
 ![Screenshot 2023-06-11 at 11 28 04 AM](https://github.com/Mukesh39/weatherapp/assets/102470215/3d568321-8c06-4fb4-a103-e3fa0df55736)
 
 
