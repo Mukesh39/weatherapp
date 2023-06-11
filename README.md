@@ -34,6 +34,10 @@ Open the index.html file in your preferred web browser.
 
 Sign up for an API key at OpenWeather and replace the placeholder API key in the code with your actual API key.
 
+# Demo
+
+open The Link - weatherforecast24by7.netlify.app
+
 # Usage
 
 Enter the location you want to check the weather for in the search input field.
