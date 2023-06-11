@@ -36,7 +36,7 @@ Sign up for an API key at OpenWeather and replace the placeholder API key in the
 
 # Demo
 
-open The Link - weatherforecast24by7.netlify.app
+open The Link - https://weatherforecast24by7.netlify.app
 
 # Usage
 
