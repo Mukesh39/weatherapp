@@ -3,9 +3,6 @@
 
 Weather Application How It work 
 
-![Screenshot 2023-06-11 at 11 28 24 AM](https://github.com/Mukesh39/weatherapp/assets/102470215/c2cf8769-68fb-45e7-b060-99994a292dc2)
-
-
 
 
 This is a weather application that fetches accurate weather information based on user search using the OpenWeather API. It provides real-time weather data including temperature, humidity, and wind speed for the searched location. The application features a user-friendly and easy-to-use UI for a seamless weather experience.
@@ -48,14 +45,15 @@ Screenshots
 
 Screenshot 1
 
-![Screenshot 2023-06-11 at 11 28 04 AM](https://github.com/Mukesh39/weatherapp/assets/102470215/3d568321-8c06-4fb4-a103-e3fa0df55736)
+
+![Screenshot 2023-08-15 at 4 53 31 PM](https://github.com/Mukesh39/weatherapp/assets/102470215/0b187e33-86d1-4f45-8deb-0919751e5674)
 
 
 
 Screenshot 2
 
-![Screenshot 2023-06-11 at 11 28 24 AM](https://github.com/Mukesh39/weatherapp/assets/102470215/a217fbc6-8cbf-4a69-82cf-1f8321372366)
 
+![Screenshot 2023-08-15 at 4 53 31 PM](https://github.com/Mukesh39/weatherapp/assets/102470215/0b187e33-86d1-4f45-8deb-0919751e5674)
 
 
 # Contributing
